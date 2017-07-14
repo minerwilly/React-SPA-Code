@@ -1,0 +1,154 @@
+{
+    "houses": [
+        {
+            "id": "id-190",
+            "code": "K-190",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img01.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-191",
+            "code": "K-191",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img02.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-192",
+            "code": "K-192",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img03.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-193",
+            "code": "K-193",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img04.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-194",
+            "code": "K-194",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img01.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-195",
+            "code": "K-195",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img02.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-196",
+            "code": "K-196",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img03.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-197",
+            "code": "K-197",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img04.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-198",
+            "code": "K-198",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img01.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-199",
+            "code": "K-199",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img02.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-200",
+            "code": "K-200",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img03.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-201",
+            "code": "K-201",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img04.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-202",
+            "code": "K-202",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img01.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-203",
+            "code": "K-203",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img02.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        },
+        {
+            "id": "id-204",
+            "code": "K-204",
+            "squareMeters": "180 m²",
+            "area": "2 ari",
+            "location": "call",
+            "price": "58.000 €",
+            "image": "img03.jpg",
+            "note": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,"
+        }
+    ]
+}
